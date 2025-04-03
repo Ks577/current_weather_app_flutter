@@ -27,7 +27,7 @@ This application was initially created based on an educational example, with add
 ### Preview  
 
 <p align="start">
-  <img src="screen1.jpg" />
-  <img src="screen2.jpg" />
+  <img src="assets/images/screen1.jpg" />
+  <img src="assets/images/screen2.jpg" />
 </p>
 
