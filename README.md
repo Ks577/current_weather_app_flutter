@@ -1,16 +1,33 @@
-# weather_app
+# Current Weather Forecast
 
-A new Flutter project.
+This application for viewing the current weather forecast in any city worldwide.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Search – Enter a city name to check the weather.  
+- Temperature – Displays the current, minimum, maximum, and feels-like temperature.  
+- Additional Parameters – Wind speed, pressure, and humidity.  
+- Sunrise and Sunset – Shows the sunrise and sunset times.  
+- Geolocation – Automatically detects the user's location.
 
-A few resources to get you started if this is your first Flutter project:
+### Packages Used
+    
+- geolocator – Retrieves the user's location  
+- geocoding – Converts coordinates into city names  
+- anim_search_bar – Animated search bar  
+- timezone – Handles time zones  
+- intl – Localization and data formatting  
+- native_device_orientation – Detects device orientation  
+- flutter_localization – Supports multilingual interfaces  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Based on a Learning Example  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This application was initially created based on an educational example, with additional features and improvements added.  
+
+### Preview  
+
+<p align="start">
+  <img src="screen1.jpg" width="45%" />
+  <img src="screen2.jpg" width="45%" />
+</p>
+
